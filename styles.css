@@ -49,8 +49,8 @@ a {
 }
 
 footer {
-    color: lightsteelblue; 
-    padding-top: 80px; 
+    color: lightsteelblue !important; 
+    padding-top: 80px !important; 
 }
 
 #ending {

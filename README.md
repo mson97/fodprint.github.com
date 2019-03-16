@@ -1,3 +1,3 @@
-# mson97.github.io
+# foodprint.github.io
 
 Case Study for Foodprint! 
